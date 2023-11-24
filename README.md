@@ -1,14 +1,18 @@
-# Create React App
+# eJam Test
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+Hello 👋, I'm Willy Romero.
 
-## Deploy Your Own
+__This is my own solution of the eJam test to apply for the position of Full Stack Developer.__
 
-Deploy your own Create React App project with Vercel.
+I've deploy it on Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+_[live Solution](https://e-jam-test-phi.vercel.app/)_
 
-_Live Example: https://create-react-template.vercel.app/_
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Vercel
 
 ## Available Scripts
 
@@ -19,13 +23,3 @@ In the project directory, you can run:
 Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes. You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
